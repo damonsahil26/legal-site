@@ -7,7 +7,7 @@ import HowItWorks from './HowItWorks';
 import PlatformInfo from './PlatformInfo';
 import CreateCompany from './CreateCompany';
 
-const Container = () => {
+const HomePage = () => {
     return (
         <div class="MuiBox-root mui-152agi9" data-testid="HomePage">
             <Navbar />
@@ -20,4 +20,4 @@ const Container = () => {
     );
 };
 
-export default Container;
+export default HomePage;
