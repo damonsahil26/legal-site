@@ -9,10 +9,11 @@ import CreateCompany from './CreateCompany';
 import DocumentOrganization from './DocumentOrganization';
 import WhyChoose from './WhyChoose';
 import SupportUs from './SupportUs';
+import ContactForm from './ContactForm';
 
 const Homepage = () => {
     return (
-        <div class="MuiBox-root mui-152agi9" data-testid="HomePage">
+        <div className="MuiBox-root mui-152agi9" data-testid="HomePage">
             <Navbar />
             <Infobanner />
             <Clients />
@@ -22,6 +23,7 @@ const Homepage = () => {
             <DocumentOrganization />
             <WhyChoose />
             <SupportUs />
+            <ContactForm />
         </div>
     );
 };
