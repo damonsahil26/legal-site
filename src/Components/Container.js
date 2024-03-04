@@ -4,6 +4,7 @@ import Navbar from './Navbar';
 import Infobanner from './Infobanner';
 import Clients from './Clients';
 import HowItWorks from './HowItWorks';
+import PlatformInfo from './PlatformInfo';
 
 const Container = () => {
     return (
@@ -12,6 +13,7 @@ const Container = () => {
             <Infobanner />
             <Clients />
             <HowItWorks />
+            <PlatformInfo />
         </div>
     );
 };
