@@ -4,7 +4,7 @@ import './css/Infobanner.css';
 const Infobanner = () => {
     return (
         <div>
-            <div class="MuiBox-root mui-1459dl"></div>
+            <div className="MuiBox-root mui-1459dl"></div>
             <div className="MuiBox-root mui-ib9iq6">
                 <div className="MuiBox-root mui-u9ncm0">
                     <div className="MuiBox-root mui-1wz6flv">
