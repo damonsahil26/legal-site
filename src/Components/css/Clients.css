@@ -1,0 +1,55 @@
+*,
+::before,
+::after {
+    box-sizing: inherit;
+}
+
+.mui-1fcx95e {
+    padding: 16px 40px 40px;
+    background-color: var(--mui-palette-background-default);
+}
+
+.mui-da0opz {
+    margin: 24px auto;
+}
+
+.mui-psqtx {
+    margin: 0px 0px 0.35em;
+    font-family: __Nunito_Sans_233459, __Nunito_Sans_Fallback_233459, Helvetica, Arial, sans-serif;
+    font-size: 0.875rem;
+    line-height: 1.57;
+    color: rgb(16, 15, 97);
+    text-align: center;
+    font-weight: 700;
+    letter-spacing: 4px;
+}
+
+.mui-7t3oco {
+    margin: 0px 15%;
+    flex-shrink: 0;
+    border-width: 0px 0px thin;
+    border-style: solid;
+    border-color: var(--mui-palette-divider);
+    border-radius: 7px;
+    background-color: rgb(0, 0, 0);
+}
+
+.mui-vqwd1x {
+    display: flex;
+    -webkit-box-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.mui-19midj6 {
+    padding: 16px;
+}
+
+@media (max-width: 899.95px) {
+    .mui-1fcx95e {
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+}
