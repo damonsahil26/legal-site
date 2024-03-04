@@ -8,7 +8,7 @@ const SupportUs = () => {
                     They support us
                 </span>
             </h2>
-            <div class="MuiBox-root mui-zitybv"></div>
+            <div className="MuiBox-root mui-zitybv"></div>
             <div className="MuiGrid2-root MuiGrid2-container MuiGrid2-direction-xs-row MuiGrid2-spacing-xs-4 mui-pni29q">
                 <div className="MuiGrid2-root MuiGrid2-direction-xs-row mui-124fws5">
                     <img
@@ -62,7 +62,7 @@ const SupportUs = () => {
                     />
                 </div>
             </div>
-            <div class="MuiBox-root mui-zitybv"></div>
+            <div className="MuiBox-root mui-zitybv"></div>
         </div>
     );
 };
