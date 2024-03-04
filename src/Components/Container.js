@@ -3,6 +3,7 @@ import './css/Container.css';
 import Navbar from './Navbar';
 import Infobanner from './Infobanner';
 import Clients from './Clients';
+import HowItWorks from './HowItWorks';
 
 const Container = () => {
     return (
@@ -10,6 +11,7 @@ const Container = () => {
             <Navbar />
             <Infobanner />
             <Clients />
+            <HowItWorks />
         </div>
     );
 };
