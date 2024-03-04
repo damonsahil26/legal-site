@@ -6,8 +6,9 @@ import Clients from './Clients';
 import HowItWorks from './HowItWorks';
 import PlatformInfo from './PlatformInfo';
 import CreateCompany from './CreateCompany';
+import DocumentOrganization from './DocumentOrganization';
 
-const Container = () => {
+const Homepage = () => {
     return (
         <div class="MuiBox-root mui-152agi9" data-testid="HomePage">
             <Navbar />
@@ -16,8 +17,9 @@ const Container = () => {
             <HowItWorks />
             <PlatformInfo />
             <CreateCompany />
+            <DocumentOrganization />
         </div>
     );
 };
 
-export default Container;
+export default Homepage;
