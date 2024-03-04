@@ -5,6 +5,7 @@ import Infobanner from './Infobanner';
 import Clients from './Clients';
 import HowItWorks from './HowItWorks';
 import PlatformInfo from './PlatformInfo';
+import CreateCompany from './CreateCompany';
 
 const Container = () => {
     return (
@@ -14,6 +15,7 @@ const Container = () => {
             <Clients />
             <HowItWorks />
             <PlatformInfo />
+            <CreateCompany />
         </div>
     );
 };
