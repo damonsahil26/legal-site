@@ -1,12 +1,10 @@
-import Navbar from './Components/Navbar';
 import './App.css';
-import Infobanner from './Components/Infobanner';
-import Container from './Components/Container';
+import Homepage from './Components/Homepage';
 
 function App() {
   return (
     <div>
-      <Container />
+      <Homepage />
     </div>
   );
 }
