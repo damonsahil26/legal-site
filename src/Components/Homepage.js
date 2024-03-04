@@ -7,6 +7,7 @@ import HowItWorks from './HowItWorks';
 import PlatformInfo from './PlatformInfo';
 import CreateCompany from './CreateCompany';
 import DocumentOrganization from './DocumentOrganization';
+import WhyChoose from './WhyChoose';
 
 const Homepage = () => {
     return (
@@ -18,6 +19,7 @@ const Homepage = () => {
             <PlatformInfo />
             <CreateCompany />
             <DocumentOrganization />
+            <WhyChoose />
         </div>
     );
 };
