@@ -10,6 +10,7 @@ import DocumentOrganization from './DocumentOrganization';
 import WhyChoose from './WhyChoose';
 import SupportUs from './SupportUs';
 import ContactForm from './ContactForm';
+import Footer from './Footer';
 
 const Homepage = () => {
     return (
@@ -24,6 +25,7 @@ const Homepage = () => {
             <WhyChoose />
             <SupportUs />
             <ContactForm />
+            <Footer />
         </div>
     );
 };
